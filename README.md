@@ -73,13 +73,13 @@ To use the framework, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/rakesh-vardan/Learn_TestAutomationFramework.git
+    git clone https://github.com/Kavya-Goyal/SampleTesting.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Learn_TestAutomationFramework
+    cd SampleTesting
     ```
 
 3. Install the required dependencies using Maven:
